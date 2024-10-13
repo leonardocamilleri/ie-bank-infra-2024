@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "lcamilleri-dbsrv-dev"
+            "value": "lcamilleri-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "lcamilleri-db-dev"
+            "value": "lcamilleri-db-uat"
         },
         "appServicePlanName": {
-            "value": "lcamilleri-asp-dev"
+            "value": "lcamilleri-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "lcamilleri-be-dev"
+            "value": "lcamilleri-be-uat"
         },
         "appServiceAppName": {
-            "value": "lcamilleri-fe-dev"
+            "value": "lcamilleri-fe-uat"
         },
         "location": {
             "value": "North Europe"
